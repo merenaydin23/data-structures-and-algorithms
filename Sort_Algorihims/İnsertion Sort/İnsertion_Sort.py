@@ -32,6 +32,7 @@ def insertion_sort_2(A):
     return A
 # Time complexity: Best case O(n), Worst case O(n^2), Average case O(n^2)
 
+
 def Main():
     print("Insertion Sort")
     a = [2, 22, 0, 55, 11, 33, 20, 0, 77, -9, 888, 77]
