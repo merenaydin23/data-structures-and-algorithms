@@ -24,6 +24,7 @@ public class Main {
             sağ[i - orta] = dizi[i];
         }
 
+        MergeSort(sol);
         MergeSort(sağ);
         Merge(dizi, sol, sağ);
     }
