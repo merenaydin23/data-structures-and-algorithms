@@ -53,3 +53,23 @@ if __name__ == "__main__":
     print("Orijinal Liste:", liste)
     print("\n")
     bucket_sort(liste)
+# 🪣 Bucket Sort Zaman Karmaşıklıkları
+
+# En iyi durum (Best Case): O(n + k)
+# - Elemanlar kovalar arasında eşit dağılmıştır.
+# - Kovalar neredeyse sıralıdır, bu yüzden iç sıralama çok az işlem gerektirir.
+# - Toplam süre giriş boyutu (n) ve kova sayısına (k) bağlı olarak neredeyse doğrusal olur.
+
+# Ortalama durum (Average Case): O(n + k)
+# - Elemanların kovalar arasında dengeli bir şekilde dağıldığı varsayılır.
+# - Kovalar küçük alt listelerdir ve genellikle insertion sort ile sıralanır.
+# - Bu durumda da süre yaklaşık olarak O(n + k) olur.
+
+# En kötü durum (Worst Case): O(n^2)
+# - Tüm elemanlar tek bir kovaya düşerse, kovada n eleman sıralanmak zorunda kalır.
+# - Kullanılan alt sıralama algoritması (örneğin insertion sort) nedeniyle karmaşıklık O(n^2) olur.
+
+# Özet:
+# Best Case   -> O(n + k)
+# Average Case -> O(n + k)
+# Worst Case   -> O(n^2)
