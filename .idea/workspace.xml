@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6b4e27-59a6-452b-b3d0-14326f923be6" name="Changes" comment="">
+    <list default="true" id="cc7bc2fb-8270-4731-b244-e6dc7c562006" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sort_Algorihims/Quick_Sort/Quick_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data-structures-and-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-structures-and-algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort_Algorihims/Bucket_Sort/Bucket_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort_Algorihims/Bucket_Sort/Bucket_Sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,26 +25,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="35669y3yqZvmWAk6oZIawu1I9Xx" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="356woPsIy9W6SggwEOzyFhPjYIk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Bubble_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bucket_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Seleciton_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.b.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Quick_Sort.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,11 +51,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4c6b4e27-59a6-452b-b3d0-14326f923be6" name="Changes" comment="" />
-      <created>1762418027036</created>
+      <changelist id="cc7bc2fb-8270-4731-b244-e6dc7c562006" name="Changes" comment="" />
+      <created>1762444003340</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1762418027036</updated>
+      <updated>1762444003340</updated>
     </task>
     <servers />
   </component>
