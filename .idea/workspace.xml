@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c6b4e27-59a6-452b-b3d0-14326f923be6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sort_Algorihims/Selection_Sort/Seleciton_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort_Algorihims/Bucket_Sort/Bucket_Sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Bubble_Sort.executor": "Run",
+    "Python.Bucket_Sort.executor": "Run",
     "Python.Seleciton_Sort.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
