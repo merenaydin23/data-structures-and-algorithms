@@ -17,7 +17,6 @@ def insertion_sort_1(arr):
         j = j + 1
         if j == len(arr):
             return arr
-# Time complexity: Best case O(n), Worst case O(n^2), Average case O(n^2)
 
 
 def insertion_sort_2(A):
@@ -30,7 +29,6 @@ def insertion_sort_2(A):
             j -= 1
         A[j + 1] = key
     return A
-# Time complexity: Best case O(n), Worst case O(n^2), Average case O(n^2)
 
 
 def Main():
@@ -40,4 +38,12 @@ def Main():
     print(b)
     c = insertion_sort_2(b)
     print(c)
+
+
 Main()
+# Time Complexity:
+#   Best Case: O(n)
+#   Average Case: O(n^2)
+#   Worst Case: O(n^2)
+# Space Complexity: O(1)
+
