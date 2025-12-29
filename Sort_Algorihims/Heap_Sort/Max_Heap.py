@@ -34,6 +34,9 @@ def heap_sort(arr):
         heapify(arr, i, 0)                # kalan kısmı düzelt
         i -= 1
 
+        print("Hello Word")
+        2
+
 
 def main():
     arr = [12, 11, 13, 5, 6, 7]
@@ -41,6 +44,7 @@ def main():
 
     heap_sort(arr)
     print("Sıralanmış:", arr)
+
 
 
 main()
