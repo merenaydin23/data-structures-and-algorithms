@@ -1,4 +1,4 @@
-def linear_search(array, x):
+graph-algorithmsdef linear_search(array, x):
     i = 0
     while i < len(array):
         if array[i] == x:
